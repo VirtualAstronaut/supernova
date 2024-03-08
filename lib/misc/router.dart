@@ -18,3 +18,7 @@ class AppRouterConfig {
     ],
   );
 }
+
+class AppRoutes {
+  static const search = '/search';
+}
